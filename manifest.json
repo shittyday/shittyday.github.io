@@ -1,6 +1,6 @@
 {
-    "name": "shitty_day_web",
-    "short_name": "shitty_day_web",
+    "name": "personal_site",
+    "short_name": "personal_site",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
